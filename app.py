@@ -1,1 +1,2 @@
-This is my test code for git..now i am going to edit the file
+This is my test code for git..now i am going to edit the file.
+Now want to pull the changes...
